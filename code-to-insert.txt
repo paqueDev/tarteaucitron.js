@@ -1,4 +1,4 @@
-to insert in the <header> section
+to insert in the <head> section
 <script type="text/javascript" src="https://static.engineering.publicissapient.fr/consent/plugins/training/tarteaucitron.js?version=1.0"></script>
 <script type="text/javascript">
 tarteaucitron.init({
